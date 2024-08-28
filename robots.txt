@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://csci699-robotic-perception.github.io/sitemap.xml
