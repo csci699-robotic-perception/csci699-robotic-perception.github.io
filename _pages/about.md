@@ -11,7 +11,7 @@ news: true
  <Strong>Location:</strong> [SOS](https://maps.usc.edu/?id=1928&reference=SOS) B44
  <Strong>Contact:</strong> [Slack](https://usc.enterprise.slack.com/archives/C07ECJMN86A)
 
-This course aims to bring together computer vision and robotics. We will study different disciplines of robotic perception, including visual recogntion, multi-view reconstruction, simulation and recent topics such as in simulation, manipulation etc. We want to show how embodied agents learn to see and sense our physical environments. 
+This course aims to bring together computer vision and robotics. We will study different disciplines of robotic perception, including visual recogntion, multi-view reconstruction, simulation and recent topics such as locomotion, manipulation etc. We want to show how embodied agents learn to see and sense our physical environments. 
 
 <Strong>Prerequisite knowledge</Strong>
 - Linear algebra and calculus
