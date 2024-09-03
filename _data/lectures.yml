@@ -26,6 +26,11 @@
     - 
     - 
   readings:
+    - End-to-End Object Detection with Transformers
+    - Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers
+    - Deep Hough Voting for 3D Object Detection in Point Clouds
+    - 3D Object Detection from Multi-view Images via 3D-to-2D Queries
+    - A Large Benchmark and Model for 3D Object Detection in the Wild
 
 - date: 9/18
   title: >
@@ -35,15 +40,25 @@
     - 
     - 
   readings:
+    - Segment Anything
+    - Mask R-CNN
+    - Assembling Open-World Models for Diverse Visual Tasks
+    - Segment Anything in Images and Videos
+    - 3D Scene Understanding with Open Vocabularies
 
 - date: 9/25
   title: >
-    Week 5: <strong>Occupancy Predeiction</strong>
+    Week 5: <strong>Occupancy Prediction</strong>
   slides: 
   topics:
     - 
     - 
   readings:
+    - Learning 3D Reconstruction in Function Space
+    - Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion
+    - Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction
+    - Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction
+    - 3D Occupancy Prediction based on Forward-Backward View Transformation
 
 - date: 10/2
   title: >
@@ -53,6 +68,11 @@
     - 
     - 
   readings:
+    - Representing Scenes as Neural Radiance Fields for View Synthesis
+    - Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction
+    - Real-Time Coherent 3D Reconstruction From Monocular Video
+    - Geometric 3D Vision Made Easy
+    - Neural Implicit Scalable Encoding for SLAM
 
 - date: 10/9
   title: >
@@ -62,6 +82,11 @@
     - 
     - 
   readings:
+    - Real-World Perception for Embodied Agents
+    - An Interactive 3D Environment for Visual AI
+    - A Platform for Embodied AI Research
+    - A Neural Closed-Loop Sensor Simulator
+    - A Real-to-Sim-to-Real Approach for Robust Manipulation
 
 - date: 10/16
   title: >
@@ -71,6 +96,9 @@
     - 
     - 
   readings:
+    - Proximal Policy Optimization Algorithms
+    - Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
+    - Temporal Difference Learning for Model Predictive Control
 
 - date: 10/23
   title: >
@@ -80,6 +108,9 @@
     - 
     - 
   readings:
+    - A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning
+    - Visuomotor Policy Learning via Action Diffusion
+    - Long-Horizon Imitation Learning by Watching Human Play
 
 - date: 10/30
   title: >
@@ -89,6 +120,9 @@
     - 
     - 
   readings:
+    - Legged Locomotion in Challenging Terrains using Egocentric Vision
+    - Learning Collision-Free High-Speed Legged Locomotion
+    - Robot Parkour Learning
 
 - date: 11/6
   title: >
@@ -98,6 +132,9 @@
     - 
     - 
   readings:
+    - Robust and Efficient Grasp Perception in Spatial and Temporal Domains
+    - Vision-Language-Action Models Transfer Web Knowledge to Robotic Control
+    - Composable 3D Value Maps for Robotic Manipulation with Language Models
 
 - date: 11/13
   title: >
